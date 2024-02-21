@@ -54,6 +54,13 @@ Once the application is running, it can interact with clients through the config
 
 For detailed API usage and additional configurations, refer to the ChatterBot and Twilio documentation.
 
+## Disclaimer
+
+The training data (corpus) for this chatbot is primarily in Romanian, tailored for an online store context. 
+The datasets are structured to enable the bot to handle a wide range of customer inquiries autonomously. 
+In scenarios where the chatbot cannot provide sufficient assistance, it is designed to direct customers to real customer support agents for further help.
+
+
 ## Contribution
 
 Contributions to enhance the chatbot's functionality, extend the datasets, or improve the application's efficiency are welcome.
