@@ -10,6 +10,8 @@ The application is built on Flask, a lightweight WSGI web application framework 
 - Twilio Integration: Employs the Twilio API to facilitate real-time messaging with clients, enhancing customer support.
 - Flask Framework: Built with Flask, enabling easy web integration and scalability.
 
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 ## Structure
 
 - `app_v5.py`: The main application file containing Flask setup, route definitions, ChatterBot initialization, and Twilio API integration.
